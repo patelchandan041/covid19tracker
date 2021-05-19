@@ -1,0 +1,10 @@
+.covid{
+    background-color: #111;
+    color: white;
+    height: 100vh;
+}
+.covid__update{
+    display: flex;
+   justify-content: space-around;
+    flex-wrap: wrap;
+}
